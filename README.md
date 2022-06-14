@@ -10,4 +10,4 @@ To use, copy or download project file and run on local computer.
 
 Thanks. 
 
-Notice: good gui was kept on low priority.
+Disclaimer: good gui was kept on low priority.
