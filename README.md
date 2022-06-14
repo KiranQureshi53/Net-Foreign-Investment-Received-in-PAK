@@ -6,7 +6,7 @@ Using State Bank of Pakistan's dataset, I have tried to visualize the Net Foreig
 
 The application is built using Tkinter framework in Python 3.9 version. This efforts is an attempt to address a gap in current visualiztion of same data set on SBP's website. Existing graphs only displays graph from a specific time period, however, this desktop application shows entire timeline in a single frame.
 
-To use, copy or download project file and run on local computer. 
+To use, copy or download project file, run on local computer after changing path to the dataset. 
 
 Thanks. 
 
