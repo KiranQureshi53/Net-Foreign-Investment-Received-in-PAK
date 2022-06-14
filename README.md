@@ -9,3 +9,5 @@ The application is built using Tkinter framework in Python 3.9 version. This eff
 To use, copy or download project file and run on local computer. 
 
 Thanks. 
+
+Notice: good gui was kept on low priority.
